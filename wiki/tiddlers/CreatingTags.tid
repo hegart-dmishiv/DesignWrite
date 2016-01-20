@@ -1,0 +1,11 @@
+created: 20160120083843402
+modified: 20160120090211628
+tags: 
+title: CreatingTags
+type: text/vnd.tiddlywiki
+
+This is [[Hegart's|HegartDmishiv]] take on the [[Creating tags for tiddlers|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html?dl=0#Creating%20tags%20for%20tiddlers]] exercise. I've added the filtered list code to my [[Linux]] tiddler. I had no practical challenges completing this exercise. However, I have experienced issues with tagging tiddlers in the past.
+
+When I was adding [[breadcrumb trails|https://en.wikipedia.org/wiki/Breadcrumb_%28navigation%29]] to [[my main TiddlyWiki file|https://hegart-dmishiv.github.io/my-TW5-dev-instance/]], I encountered a situation where multiple tags on a single tiddler will confuse the breadcrumb system. This issue was discussed at length [[on the TiddlyWiki forums|https://groups.google.com/forum/#!topic/tiddlywiki/uVEDz5Vvzjw]], with several possible solutions suggested.
+
+The issue at hand is a clear example of the difference between an ontological, heirarchical approach to information management, versus freeform tagging, as discussed in Clay Shirky's 2005 essay [[Ontology is Overrated|http://shirky.com/writings/ontology_overrated.html]]. The breadcrumb system is purely heirarchical, which in this instance conflicts with the freeform tagging approach espoused by Shirky and as implemented by default in TiddlyWiki.
