@@ -1,0 +1,9 @@
+created: 20160121101803001
+modified: 20160121101943415
+tags: Activities
+title: DesignWrite Suggested Videos
+type: text/vnd.tiddlywiki
+
+* ''Courseware:'' [[permalink|https://www.youtube.com/watch?v=NLlGopyXT_g&list=PLwHAgO3-BJiuOCz6RqeEIwSoOz7OmwdLX]]
+
+<<list-links filter:"[tag{!!title}]">>
