@@ -1,12 +1,11 @@
 created: 20160121095655277
 list-before: $:/core/ui/SideBar/Open
-modified: 20160121095828798
+modified: 20160121104354732
+revision: 0
 tags: $:/tags/SideBar
 title: Activities
 type: text/vnd.tiddlywiki
 
-[[Welcome]]
-
 <div class="tc-table-of-contents">
-<<toc-selective-expandable 'Activities' sort[title]>>
+<<toc-selective-expandable 'Activities' sort[t]>>
 </div>
