@@ -1,8 +1,10 @@
 created: 20160123161311665
-modified: 20160123162754951
+modified: 20160123165606215
 revision: 0
 tags: geah-stanzas
 title: geah-stanza01
 type: text/vnd.tiddlywiki
 
-{{I am Sam. Sam I am}}<br />{{That Sam-I-am, that Sam-I-am}}<br />{{I do not like that Sam-I-am}}
+[[I]] [[am]] [[Sam]].<br />{{I am Sam. Sam I am}}
+
+{{That Sam-I-am, that Sam-I-am}}<br />{{I do not like that Sam-I-am}}
