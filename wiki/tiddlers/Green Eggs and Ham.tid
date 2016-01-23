@@ -1,0 +1,24 @@
+created: 20160123202138718
+modified: 20160123203706218
+tags: [[Introduction to TiddlyWikification]]
+title: Green Eggs and Ham
+type: text/vnd.tiddlywiki
+
+* ''Courseware'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Green%20Eggs%20and%20Ham]]
+
+I got an early start on this exercise. I'm still working on it, but I've achieved quite a bit so far. I have the 50 word [[vocabulary|geah-vocab]] in place, and I'm adding the unique [[lines|geah-lines]] (sentences) of the poem/story. 
+
+I decided to concatenate together some of the lines, to form sentences of at least 15 characters long. For instance, the two lines...
+
+``I am Sam.
+Sam I am.``
+
+...have been joined to become a single line...
+
+``I am Sam. Sam I am.``
+
+I tried mostly to join up lines which end with commas, into full sentences. It just made more sense to me that way.
+
+Also, I have begun grouping the lines (sentences) into [[stanzas|geah-stanzas]], so that I can regain control of the flow of the story/poem. It isn't meant to be read in alphabetical order, as the [[lines|geah-lines]] tiddler puts it.
+
+I then view all of the stanzas together, in order, to complete the [[poem|geah-poem]]. As you see, it's still not quite complete yet. I took the wording of the poem from [[allthelyrics.com|http://www.allthelyrics.com/lyrics/dr_seuss/green_eggs_and_ham-lyrics-748536.html]], so I hope that source is accurate!
