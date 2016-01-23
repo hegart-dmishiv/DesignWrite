@@ -3,4 +3,6 @@ title: they
 type: text/vnd.tiddlywiki
 tags: geah-vocab
 
+Below are the lines of Dr. Seuss' story [[Green Eggs and Ham]] which contain the word "{{!!title}}" in them.
+
 <<list-links filter:"[tag{!!title}]">>
