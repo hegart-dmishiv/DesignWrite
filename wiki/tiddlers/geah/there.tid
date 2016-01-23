@@ -1,6 +1,6 @@
 Created: 20160121180000000
 title: there
 type: text/vnd.tiddlywiki
-tags: geah exercises
+tags: geah-vocab
 
 <<list-links filter:"[tag{!!title}]">>
