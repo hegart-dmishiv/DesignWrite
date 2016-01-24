@@ -1,0 +1,9 @@
+created: 20160124012511275
+modified: 20160124012548055
+tags: geah-rhyme
+title: geah-rhyme-box-fox
+type: text/vnd.tiddlywiki
+
+Below are the lines (sentences) in Dr. Seuss' story [[Green Eggs and Ham]] which end with either "[[box]]" or "[[fox]]". They are sorted alphabetically by default.
+
+<<list-links filter:"[tag{!!title}]">>
