@@ -1,5 +1,6 @@
 created: 20160123202138718
-modified: 20160123203706218
+modified: 20160124014233151
+revision: 0
 tags: [[Introduction to TiddlyWikification]]
 title: Green Eggs and Ham
 type: text/vnd.tiddlywiki
@@ -22,3 +23,5 @@ I tried mostly to join up lines which end with commas, into full sentences. It j
 Also, I have begun grouping the lines (sentences) into [[stanzas|geah-stanzas]], so that I can regain control of the flow of the story/poem. It isn't meant to be read in alphabetical order, as the [[lines|geah-lines]] tiddler puts it.
 
 I then view all of the stanzas together, in order, to complete the [[poem|geah-poem]]. As you see, it's still not quite complete yet. I took the wording of the poem from [[allthelyrics.com|http://www.allthelyrics.com/lyrics/dr_seuss/green_eggs_and_ham-lyrics-748536.html]], so I hope that source is accurate!
+
+''EDIT:'' I've just added the [[rhyming|geah-rhyme]] section to this exercise. They will now be filled out automatically as I add the rest of the lines to the poem.
