@@ -1,0 +1,9 @@
+created: 20160124012853647
+modified: 20160124012921418
+tags: geah-rhyme
+title: geah-rhyme-train-rain
+type: text/vnd.tiddlywiki
+
+Below are the lines (sentences) in Dr. Seuss' story [[Green Eggs and Ham]] which end with either "[[train]]" or "[[rain]]". They are sorted alphabetically by default.
+
+<<list-links filter:"[tag{!!title}]">>
