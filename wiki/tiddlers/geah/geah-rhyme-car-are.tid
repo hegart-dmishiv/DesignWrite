@@ -1,0 +1,9 @@
+created: 20160124012625779
+modified: 20160124012703459
+tags: geah-rhyme
+title: geah-rhyme-car-are
+type: text/vnd.tiddlywiki
+
+Below are the lines (sentences) in Dr. Seuss' story [[Green Eggs and Ham]] which end with either "[[car]]" or "[[are]]". They are sorted alphabetically by default.
+
+<<list-links filter:"[tag{!!title}]">>
