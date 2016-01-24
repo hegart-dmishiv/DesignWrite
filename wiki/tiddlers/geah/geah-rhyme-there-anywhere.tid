@@ -1,0 +1,9 @@
+created: 20160124012152998
+modified: 20160124012241538
+tags: geah-rhyme
+title: geah-rhyme-there-anywhere
+type: text/vnd.tiddlywiki
+
+Below are the lines (sentences) in Dr. Seuss' story [[Green Eggs and Ham]] which end with either "[[there]]" or "[[anywhere]]". They are sorted alphabetically by default.
+
+<<list-links filter:"[tag{!!title}]">>
