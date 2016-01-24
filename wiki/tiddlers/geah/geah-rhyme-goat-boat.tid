@@ -1,0 +1,9 @@
+created: 20160124012950839
+modified: 20160124013019000
+tags: geah-rhyme
+title: geah-rhyme-goat-boat
+type: text/vnd.tiddlywiki
+
+Below are the lines (sentences) in Dr. Seuss' story [[Green Eggs and Ham]] which end with either "[[goat]]" or "[[boat]]". They are sorted alphabetically by default.
+
+<<list-links filter:"[tag{!!title}]">>
