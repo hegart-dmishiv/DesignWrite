@@ -1,5 +1,5 @@
 created: 20160124222556299
-modified: 20160124230727946
+modified: 20160124233812858
 revision: 0
 tags: [[Green Eggs and Ham]]
 title: My observations about the Green Eggs and Ham exercise
@@ -27,3 +27,14 @@ These two lines both contain the phrase ''//"Not with a mouse"//'', but because 
 This issue comes about only because I'm using GitHub to host my TiddlyWiki, rather than DropBox like the rest of the class. However, see [[this recent discussion in the official TiddlyWiki forums|https://groups.google.com/forum/#!topic/tiddlywiki/sbt8dyJPOJg]] for more on this subject, which may affect everybody.
 
 I found very early on in this exercise that I couldn't have certain punctuation in the title of my tiddlers. Of particular concern for me was the question mark (?) symbol. My TiddlyWiki wouldn't build properly if I had a question mark in the title of a tiddler. So I began stripping out punctuation from the titles, (particularly at the end of titles) but leaving them in the body text, so they appear properly in the [[finished article|geah-poem]]. It was only when I was about half-way through adding the [[line tiddlers|geah-lines]] that I realised that TiddlyWiki itself was happy to have question marks in the title, but GitHub was not. Rather than going back and changing all the titles again to include the punctuation, I have left them as they are.
+
+!! 4. Iteration
+Whenever I want to make a small change, such as adding a tag to the word tiddlers, I have to iterate over the entire set to make a consistent change to them all. With 50 [[word tiddlers|geah-vocab]], and even more [[line tiddlers|geah-lines]], this means that every small change becomes a major task. As I said in a recent email to Steve...
+
+> //"I guess if you know exactly what you're doing, and only need to touch each tiddler once, then this would be a breeze. It's the going back and correcting/fixing/improving things that is taking an age for me, because of the repetition involved for each minor edit."//
+
+It has become apparent to me through this exercise that GitHub might not be the best platform for hosting a TiddlyWiki which requires such a large volume of edits. Each time I edit a tiddler, I have to download it as a *.tid file, then upload it to GitHub. There is no way for me to make multiple edits to several tiddlers, then update the TiddlyWiki *.html file in one go.
+
+In my own personal use of TiddlyWiki, I only use it locally on my own <abbr title="Local Area Network">LAN</abbr>, so I don't need to worry about hosting. I created a public TiddlyWiki instance for getting support from the TW community, so that I could demonstrate any problems I was having. This is currently hosted on GitHub. By the time I received Steve's invitation to join {{DesignWrite}}, I was already familiar with using TiddlyWiki on GitHub, so I went with that again for this instance. I'm starting to rue that decision.
+
+It does, however, provide a very useful [[commit history|https://github.com/hegart-dmishiv/DesignWrite/commits/master/wiki/tiddlers]], which shows every change I've ever made to this TW instance.
