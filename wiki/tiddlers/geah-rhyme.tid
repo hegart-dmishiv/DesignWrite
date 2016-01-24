@@ -1,20 +1,16 @@
 created: 20160124003031826
-modified: 20160124005644190
+modified: 20160124020011396
+revision: 0
 tags: 
 title: geah-rhyme
 
 In my analysis of the [[lines|geah-lines]] of Dr. Seuss' story [[Green Eggs and Ham]], I found that they all end in one of the following 20 unique words: [[am]], [[ham]], [[there]], [[anywhere]], [[house]], [[mouse]], [[box]], [[fox]], [[car]], [[are]], [[see]], [[tree]], [[be]], [[train]], [[dark]], [[rain]], [[goat]], [[boat]], [[say]], [[may]].
 
-Of these 20 unique "ending" words, only one ([[dark]]) has no rhyming word. The rest have at least one rhyming partner, as follows...<br />
-[[am]], [[ham]]<br />
-[[there]], [[anywhere]]<br />
-[[house]], [[mouse]]<br />
-[[box]], [[fox]]<br />
-[[car]], [[are]]<br />
-[[see]], [[tree]], [[be]]<br />
-[[train]], [[rain]]<br />
-[[goat]], [[boat]]<br />
-[[say]], [[may]]<br />
+Of these 20 unique "ending" words, only one ([[dark]]) has no rhyming word. The rest have at least one rhyming partner, as follows...
+
+| [[am]]/[[ham]] | [[there]]/[[anywhere]] | [[house]]/[[mouse]] |
+| [[box]]/[[fox]] | [[car]]/[[are]] | [[see]]/[[tree]]/[[be]] |
+| [[train]]/[[rain]] | [[goat]]/[[boat]] | [[say]]/[[may]] |
 
 I'm therefore turning these nine "rhyming pairs" (despite one of them being a trio) into tags, as follows...<br />
 {{geah-rhyme-am-ham||$:/core/ui/TagTemplate}}<br />
