@@ -1,5 +1,5 @@
 created: 20160124222556299
-modified: 20160125002413250
+modified: 20160125002928328
 revision: 0
 tags: [[Green Eggs and Ham]]
 title: My observations about the Green Eggs and Ham exercise
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 !! 1. Capitalisation
 Or, for the Americans in the house, "capitalization".
 
-TiddlyWiki's tiddler titles are case sensitive, so "[[You]]" and "[[you]]" do not link to the same tiddler. This has become an issue for me when completing this exercise. Rather than creating two of every word tiddler, one for lowercase words and one for titlecase words, I have forced lowercase only for the [[Green Eggs and Ham vocabulary|geah-vocab]], with the exception of "[[I]]" and "[[Sam]]", both of which are naturally titlecase only. Wherever a word uses titlecase, I force the link to lowercase, using the following structure...
+TiddlyWiki's tiddler titles are case sensitive, so "[[You]]" and "[[you]]" do not link to the same tiddler. This has become an issue for me when completing this exercise. Rather than creating two of every word tiddler, one for lowercase words and one for titlecase words, I have forced lowercase only for the [[Green Eggs and Ham vocabulary|geah-vocab]], with the exception of "[[I]]" and "[[Sam]]", both of which are naturally titlecase only. Wherever a word uses titlecase in the [[lines|geah-lines]] of the poem, I force the link to lowercase, using the following structure...
 
 ``[[You|you]]``
 
