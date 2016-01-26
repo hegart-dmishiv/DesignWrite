@@ -1,7 +1,8 @@
 created: 20160126224531427
 creator: HegartDmishiv
-modified: 20160126231331738
+modified: 20160126232321691
 modifier: HegartDmishiv
+revision: 0
 tags: [[Introduction to TiddlyWikification]]
 title: Notes & Quotes & New Tiddlers
 
@@ -11,16 +12,14 @@ I'll be using some custom [[tiddler fields|http://tiddlywiki.com/#TiddlerFields]
 
 I plan to use a slightly different filter construct for this one. It is similar to the filter I use often in my own, personal implementation of TW at home. It looks something like this....
 
-``
-<$list filter="[tag[Contents]!title[tagtiddlername]sort[title]]">
+``<$list filter="[tag[tagtiddlertitle]sort[title]]">
 
 <$link>''<$view field="title"/>: ''</$link> <$transclude field="fieldname"/>
-</$list>
-``
+</$list>``
 
 This will list (as a link in bold text, followed by a colon), the title of each tiddler which is tagged with the specified //tagtiddlername//, followed by the content of the field //fieldname//. In my own TW instance at home, I have a custom //summary// field for each tiddler, which I use with this filter, making something that looks like this...
 
-<$list filter="[tag[Contents]!title[geah-class-adjective]sort[title]]">
+<$list filter="[tag[geah-class-adjective]sort[title]]">
 
 <$link>''<$view field="title"/>: ''</$link> <$transclude field="summary"/>
 </$list>
