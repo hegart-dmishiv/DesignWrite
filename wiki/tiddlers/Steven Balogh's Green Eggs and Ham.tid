@@ -12,7 +12,7 @@ Now I'm all for academic integrity. We don't really learn anything by cheating. 
 Looking over [[Steven Balogh's Green Eggs and Ham TiddlyWiki|http://baloghs-greeneggs.tiddlyspace.com/]], I've been able to make some comparisons to [[my own observations of the exercise|My observations about the Green Eggs and Ham exercise]].
 
 !! 1. Capitalisation
-It looks like Steven Balogh has gone with both lowercase and titlecase tag tiddlers. See, for example, his [[You|http://baloghs-greeneggs.tiddlyspace.com/#You]] tag as opposed to his [[you|http://baloghs-greeneggs.tiddlyspace.com/#you]] tag. The results of the filter are different for each. The way I've done it, using the ``[[You|you]]`` structure means that my filter results show both uses of the word "you", regardless of capitalisation, in a single list. Neither solution is better, or more correct, they just approach the problem differently.
+It looks like Steven Balogh has gone with both lowercase and titlecase tag tiddlers. See, for example, his [[You|http://baloghs-greeneggs.tiddlyspace.com/#You]] tag as opposed to his [[you|http://baloghs-greeneggs.tiddlyspace.com/#you]] tag. The results of the filter are different for each. The way I've done it, using the ``[[You|you]]`` structure means that my filter results show both uses of the word "you", regardless of capitalisation, in a single list. Neither solution is better, nor more correct, they just approach the problem differently.
 
 !! 2. Concatenation
 It looks like Steven Balogh did the same as me with concatenating the lines / sentences. See, for instance, his line...
@@ -25,4 +25,4 @@ The first thing I noticed in Steven Balogh's TiddlyWiki, as it was one of his mo
 !! 4. Iteration
 In good Seussian terminology, "Harrumph!"
 
-It seems that Steven Balogh has completed all the lines of the poem, where I was griping and complaining about the number of times I needed to iterate over the sets. My apologies to our tutor, Steve Schneider, for wasting his time with my petty concerns. Steve Balogh's work shows clearly that my concerns were unfounded.
+It seems that Steven Balogh has completed all the lines of the poem, where I was griping and complaining about the number of times I needed to iterate over the sets. My apologies to our tutor, Steve Schneider, for wasting his time with my petty concerns. Steven Balogh's work shows clearly that my concerns were unfounded.
