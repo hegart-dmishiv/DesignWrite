@@ -12,7 +12,7 @@ I'll be using some custom [[tiddler fields|http://tiddlywiki.com/#TiddlerFields]
 
 I plan to use a slightly different filter construct for this one. It is similar to the filter I use often in my own, personal implementation of TW at home. It looks something like this....
 
-``<$list filter="[tag[tagtiddlertitle]sort[title]]">
+``<$list filter="[tag[tagtiddlername]sort[title]]">
 
 <$link>''<$view field="title"/>: ''</$link> <$transclude field="fieldname"/>
 </$list>``
