@@ -1,0 +1,25 @@
+created: 20160125071400111
+creator: HegartDmishiv
+modified: 20160126052414565
+modifier: HegartDmishiv
+tags: 
+title: geah-word-classes
+type: application/x-tiddler
+
+In a recent update to the [[courseware|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Green%20Eggs%20and%20Ham]], Steve has added to the [[Green Eggs and Ham]] exercise, the suggestion for us to explore the [[word classes|https://en.wikipedia.org/wiki/English_grammar#Word_classes_and_phrases]] used in the poem.
+
+To achieve this, I am creating the following new tags to apply to the [[words|geah-vocab]] of the poem...
+
+{{geah-class-adjective||$:/core/ui/TagTemplate}}
+{{geah-class-adverb||$:/core/ui/TagTemplate}}
+{{geah-class-conjuction||$:/core/ui/TagTemplate}}
+{{geah-class-determiner||$:/core/ui/TagTemplate}}
+{{geah-class-noun||$:/core/ui/TagTemplate}}
+{{geah-class-preposition||$:/core/ui/TagTemplate}}
+{{geah-class-pronoun||$:/core/ui/TagTemplate}}
+{{geah-class-verb||$:/core/ui/TagTemplate}}
+
+!! Mnemonic for the word classes
+While prompting my grey matter with the meanings of each of the eight word types, I came across this handy mnemonic poem from the 19th century schoolbook, ''//First lessons in language, or, Elements of English grammar//'', by Tower, D.B. and Tweed, B. F. (1855), republished in 1999 by  University of Pittsburgh. University Library System. Digital Research Library. ([[WorldCat|https://www.worldcat.org/title/first-lessons-in-language-or-elements-of-english-grammar/oclc/48622794]]).
+
+The website I stumbled upon where I initially heard about this mnemonic poem was part of the [[CommNet Grammar|http://grammar.ccc.commnet.edu/grammar/definitions.htm]] pages. I have added the relevant stanza from this poem to each of my word class tiddlers.
