@@ -1,5 +1,7 @@
 created: 20160124222556299
-modified: 20160125002928328
+creator: HegartDmishiv
+modified: 20160126211041189
+modifier: HegartDmishiv
 revision: 0
 tags: [[Green Eggs and Ham]]
 title: My observations about the Green Eggs and Ham exercise
@@ -42,3 +44,6 @@ It has become apparent to me through this exercise that GitHub might not be the 
 In my own personal use of TiddlyWiki, I only use it locally on my own <abbr title="Local Area Network">LAN</abbr>, so I don't need to worry about hosting. I created a public TiddlyWiki instance for getting support from the TW community, so that I could demonstrate any problems I was having. This is currently hosted on GitHub. By the time I received Steve's invitation to join {{DesignWrite}}, I was already familiar with using TiddlyWiki on GitHub, so I went with that again for this instance. I'm starting to rue that decision.
 
 It does, however, provide a very useful [[commit history|https://github.com/hegart-dmishiv/DesignWrite/commits/master/wiki/tiddlers]], which shows every change I've ever made to this TW instance.
+
+!! See Also
+* [[Steven Balogh's Green Eggs and Ham]]
