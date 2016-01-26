@@ -1,6 +1,6 @@
 created: 20160126224531427
 creator: HegartDmishiv
-modified: 20160126232321691
+modified: 20160126234807217
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]]
@@ -19,7 +19,13 @@ I plan to use a slightly different filter construct for this one. It is similar 
 
 This will list (as a link in bold text, followed by a colon), the title of each tiddler which is tagged with the specified //tagtiddlername//, followed by the content of the field //fieldname//. In my own TW instance at home, I have a custom //summary// field for each tiddler, which I use with this filter, making something that looks like this...
 
+---
+
 <$list filter="[tag[geah-class-adjective]sort[title]]">
 
 <$link>''<$view field="title"/>: ''</$link> <$transclude field="summary"/>
 </$list>
+
+---
+
+While this is great for a list of definitions or summaries of tiddlers, the current exercise requires a list of references. I intend to build my references using (a rough approximation of) [[APA style|https://en.wikipedia.org/wiki/APA_style]], with the relevant fields in the citation being stored in custom tiddler fields. This will allow me to quickly sort my list of references alphabetically, as you would find them in a bibliography.
