@@ -1,5 +1,7 @@
 created: 20160123202138718
-modified: 20160124014233151
+creator: HegartDmishiv
+modified: 20160126125403287
+modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]]
 title: Green Eggs and Ham
@@ -25,3 +27,5 @@ Also, I have begun grouping the lines (sentences) into [[stanzas|geah-stanzas]],
 I then view all of the stanzas together, in order, to complete the [[poem|geah-poem]]. As you see, it's still not quite complete yet. I took the wording of the poem from [[allthelyrics.com|http://www.allthelyrics.com/lyrics/dr_seuss/green_eggs_and_ham-lyrics-748536.html]], so I hope that source is accurate!
 
 ''EDIT:'' I've just added the [[rhyming|geah-rhyme]] section to this exercise. They will now be filled out automatically as I add the rest of the lines to the poem.
+
+''EDIT (27-Jan, 1:51am NZDT):'' I have just finished adding the [[word classes|geah-word-classes]] (grammar) to all the [[words|geah-vocab]] in the poem. The [[lines|geah-lines]] are all in now too. I just have to update a few of the [[stanzas|geah-stanzas]]. 
