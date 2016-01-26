@@ -1,0 +1,14 @@
+created: 20160126042217786
+creator: HegartDmishiv
+modified: 20160126043114649
+modifier: HegartDmishiv
+tags: geah-word-classes
+title: geah-class-conjuction
+type: text/vnd.tiddlywiki
+
+Below are the [[words|geah-words]] used in Dr. Seuss' story [[Green Eggs and Ham]], which are identified as [[conjunctions|https://en.wikipedia.org/wiki/English_grammar#Conjunctions]].
+
+> //CONJUNCTIONS join the words together,<br />
+As: men ''and'' women, wind ''or'' weather.//
+
+<<list-links filter:"[tag{!!title}]">>
