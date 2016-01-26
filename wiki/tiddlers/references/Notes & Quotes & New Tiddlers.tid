@@ -1,0 +1,26 @@
+created: 20160126224531427
+creator: HegartDmishiv
+modified: 20160126231331738
+modifier: HegartDmishiv
+tags: [[Introduction to TiddlyWikification]]
+title: Notes & Quotes & New Tiddlers
+
+* ''Courseware:'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Notes%20%26%20Quotes%20%26%20New%20Tiddlers]]
+
+I'll be using some custom [[tiddler fields|http://tiddlywiki.com/#TiddlerFields]] in my implementation of my [[References]] tiddlers. This is probably something that Steve has got planned for the [[Advanced TiddlyWikification]] lessons later in the course. However, as I've been using TW for a few months before starting {{DesignWrite}} I have a few ideas already about how fields could help me with this exercise.
+
+I plan to use a slightly different filter construct for this one. It is similar to the filter I use often in my own, personal implementation of TW at home. It looks something like this....
+
+``
+<$list filter="[tag[Contents]!title[tagtiddlername]sort[title]]">
+
+<$link>''<$view field="title"/>: ''</$link> <$transclude field="fieldname"/>
+</$list>
+``
+
+This will list (as a link in bold text, followed by a colon), the title of each tiddler which is tagged with the specified //tagtiddlername//, followed by the content of the field //fieldname//. In my own TW instance at home, I have a custom //summary// field for each tiddler, which I use with this filter, making something that looks like this...
+
+<$list filter="[tag[Contents]!title[geah-class-adjective]sort[title]]">
+
+<$link>''<$view field="title"/>: ''</$link> <$transclude field="summary"/>
+</$list>
