@@ -1,0 +1,14 @@
+created: 20160127210913340
+creator: HegartDmishiv
+modified: 20160127211424555
+modifier: HegartDmishiv
+tags: References
+title: References — Quotes
+type: text/vnd.tiddlywiki
+
+Below is a list of links to quotes from the [[references|References]] we've been asked to assemble as part of the [[Notes & Quotes & New Tiddlers]] exercise.
+
+<$list filter="[tag[References — Quotes]sort[title]]">
+
+* <$link><$view field="ref-parent"/></$link>
+</$list>
