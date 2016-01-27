@@ -1,0 +1,20 @@
+created: 20160126235718055
+creator: HegartDmishiv
+modified: 20160127003048184
+modifier: HegartDmishiv
+tags: Welcome wip
+title: Work In Progress
+type: text/vnd.tiddlywiki
+wip: Creating my equivalent to Steve's [[NewAtDesignWrite|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#NewAtDesignWrite]] tiddler, but using form fields to do it. I'm still not satisfied with the CSS outdent, which I'll need to perfect for my bibliography for the [[Notes & Quotes & New Tiddlers]] exercise.
+wip-date: 160127-1315
+
+Similar to Steve's [[NewAtDesignWrite|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#NewAtDesignWrite]] tiddler, this tiddler will keep you informed about what I'm currently working on in my {{DesignWrite}} TiddlyWiki. Of course, you can always check out the [[Recent|$:/core/ui/SideBar/Recent]] changes list, or even go to the [[commit history on GitHub|https://github.com/hegart-dmishiv/DesignWrite/commits/master]] to see for yourself what I've been up to. Here, however, I'll try to be a little more verbose about what I'm doing, and even about what I intend to do next. 
+
+I'm using the <<tag wip>> (for "work in progress") tag, together with the //wip// & //wip-date// custom [[tiddler fields|http://tiddlywiki.com/#TiddlerFields]] to generate the list below.
+
+---
+
+<$list filter="[tag[wip]!sort[wip-date]]">
+
+<span style="text-indent: 1em; margin-left: -1em; ">''<$view field="wip-date"/>'' — <$link><$view field="title"/></$link> — <$transclude field="wip"/></span>
+</$list>
