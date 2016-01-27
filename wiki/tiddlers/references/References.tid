@@ -1,6 +1,6 @@
 created: 20160127041435134
 creator: HegartDmishiv
-modified: 20160127081128258
+modified: 20160127112805528
 modifier: HegartDmishiv
 revision: 0
 tags: [[Notes & Quotes & New Tiddlers]]
@@ -11,5 +11,5 @@ title: References
 !! Bibliography
 <$list filter="[tag[References]sort[title]]">
 
-<span style="text-indent: 1em; margin-left: -1em; "><$view field="ref-biblio"/></span>
+<span style="display:block; text-indent: -1em; margin-left: 1em; "><$view field="ref-biblio"/></span>
 </$list>
