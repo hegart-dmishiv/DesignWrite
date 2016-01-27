@@ -1,0 +1,11 @@
+created: 20160127200307523
+creator: HegartDmishiv
+modified: 20160127200526684
+modifier: HegartDmishiv
+tags: References
+title: References — Notes
+type: text/vnd.tiddlywiki
+
+Below is a list of my own notes about the [[references|References]] we've been asked to assemble as part of the [[Notes & Quotes & New Tiddlers]] exercise.
+
+<<list-links filter:"[tag{!!title}]">>
