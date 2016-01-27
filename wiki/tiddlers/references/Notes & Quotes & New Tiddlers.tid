@@ -1,13 +1,13 @@
 created: 20160127022809302
 creator: HegartDmishiv
-modified: 20160127105854811
+modified: 20160127203000490
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
 title: Notes & Quotes & New Tiddlers
 type: text/vnd.tiddlywiki
-wip: I have created the basic tiddlers for all of the [[references|References]], and built a simple bibliography using a custom [[tiddler field|http://tiddlywiki.com/#TiddlerFields]]. I haven't actually read the content of [[this week's readings|Understanding Hypertext in Context]] yet, nor added any summaries, abstracts, etc to them.
-wip-date: 160127-2205
+wip: I'm back working on this exercise, adding child tiddlers and sub-tags for the [[references|References]]. For now they won't have any content, just a whole lot of empty tiddlers, but once they are created they'll be easier to fill in later, as I read through the references.
+wip-date: 160128-0928
 
 * ''Courseware:'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Notes%20%26%20Quotes%20%26%20New%20Tiddlers]]
 
@@ -45,3 +45,15 @@ These fields can then be accessed using transclusion, such as ``{{Bush, V. (1945
 <p>{{Bush, V. (1945) As We May Think.!!ref-biblio}}</p></div>
 
 ---
+
+!! Child tiddlers and sub-tags
+In the [[exercise|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Notes%20%26%20Quotes%20%26%20New%20Tiddlers]], we are asked to //"create additional tiddlers that summarize, quote, abstract, speculate about or otherwise capture and annotate your understanding and thoughts as you read those texts."// 
+
+To do this myself in a structured and methodological way, I will create child tiddlers for each reference, as the following table shows, again using [[Bush, V. (1945) As We May Think.]] as the example.
+
+| !Title | !Tags | !Description |
+|[[ Bush, V. (1945) — Notes]] |The parent tiddler and <<tag [[References — Notes]]>> |Where I keep my own notes and observations about the reference. |
+|[[ Bush, V. (1945) — Quotes]] |The parent tiddler and <<tag [[References — Quotes]]>> |Quoted sentences or paragraphs from the reference. |
+|[[ Bush, V. (1945) — Abstract]] |The parent tiddler and <<tag [[References — Abstracts]]>> |An abstract or summary of the reference. |
+
+Notice here that I'm using the first part of the parent tiddler's title, just the author(s)' name(s) and the year of publication. I do hope I don't encounter a profilic author who published more than one relevant article in the same year! In such an instance I may have to add something like //(1)// after the year in the tiddler title.
