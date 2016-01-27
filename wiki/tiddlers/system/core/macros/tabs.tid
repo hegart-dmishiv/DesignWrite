@@ -11,7 +11,7 @@ title: $:/core/macros/tabs
 <$list filter="$tabsList$" variable="currentTab"><$set name="save-currentTiddler" value=<<currentTiddler>>><$tiddler tiddler=<<currentTab>>><$button set=<<qualify "$state$">> setTo=<<currentTab>> default="$default$" selectedClass="tc-tab-selected" tooltip={{!!tooltip}}>
 <$tiddler tiddler=<<save-currentTiddler>>>
 <$set name="tv-wikilinks" value="no">
-<$transclude tiddler=<<currentTab>> field="mycaption">
+<$transclude tiddler=<<currentTab>> field="tabcaption">
 <$macrocall $name="currentTab" $type="text/plain" $output="text/plain"/>
 </$transclude>
 </$set></$tiddler></$button></$tiddler></$set></$list>
