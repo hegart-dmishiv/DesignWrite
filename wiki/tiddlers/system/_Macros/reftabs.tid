@@ -1,0 +1,36 @@
+created: 20160127231435814
+creator: HegartDmishiv
+modified: 20160127231920826
+modifier: HegartDmishiv
+tags: $:/tags/Macro
+title: $:/_Macros/reftabs
+
+\define reftabs(reftabsList,default,state:"$:/state/reftab",class,template)
+<div class="tc-reftab-set $class$">
+<div class="tc-reftab-buttons $class$">
+<$list filter="$reftabsList$" variable="currentTab"><$set name="save-currentTiddler" value=<<currentTiddler>>><$tiddler tiddler=<<currentTab>>><$button set=<<qualify "$state$">> setTo=<<currentTab>> default="$default$" selectedClass="tc-reftab-selected" tooltip={{!!tooltip}}>
+<$tiddler tiddler=<<save-currentTiddler>>>
+<$set name="tv-wikilinks" value="no">
+<$transclude tiddler=<<currentTab>> field="tabcaption">
+<$macrocall $name="currentTab" $type="text/plain" $output="text/plain"/>
+</$transclude>
+</$set></$tiddler></$button></$tiddler></$set></$list>
+</div>
+<div class="tc-reftab-divider $class$"/>
+<div class="tc-reftab-content $class$">
+<$list filter="$reftabsList$" variable="currentTab">
+
+<$reveal type="match" state=<<qualify "$state$">> text=<<currentTab>> default="$default$">
+
+<$transclude tiddler="$template$" mode="block">
+
+<$transclude tiddler=<<currentTab>> mode="block"/>
+
+</$transclude>
+
+</$reveal>
+
+</$list>
+</div>
+</div>
+\end
