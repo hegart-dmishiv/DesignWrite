@@ -1,6 +1,6 @@
 created: 20160127022809302
 creator: HegartDmishiv
-modified: 20160127210352505
+modified: 20160127222649252
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
@@ -26,8 +26,11 @@ To appease my [[aspie|https://en.wikipedia.org/wiki/Asperger_syndrome]] tendenci
 
 An example of such a constructed tiddler title would be [[Bush, V. (1945) As We May Think.]]
 
+!! Tabs
+I will use the [[Tabs Macro|http://tiddlywiki.com/#tabs%20Macro]] to display a row of tabs at the bottom of each reference tiddler, to display the Notes, Quotes, and Abstract in these tabs. To use this effectively, I will need to add the //tabcaption// [[tiddler field|http://tiddlywiki.com/#TiddlerFields]] to each of the child tiddlers, so that the names on the tabs are short enough. However, //tabcaption// is not the default for the Tabs Macro, so I've had to create a [[shadow tiddler|http://tiddlywiki.com/#ShadowTiddlers]] for the [[$:/core/macros/tabs]] tiddler. This overrides the default behaviour of the Tabs Macro. In line 7 of the macro, I replaced ``caption`` with ``tabcaption``. For more details, see [[this discussion|https://groups.google.com/forum/#!topic/tiddlywiki/Zah_tMeAdRs]] (where I discussed this all at length with myself) on the official TiddlyWiki forums.
+
 !! Tiddler fields
-I will add some simple [[tiddler fields|http://tiddlywiki.com/#TiddlerFields]] to each reference tiddler, as follows...
+I will add some simple tiddler fields to each reference tiddler, as follows...
 
 | !Field | !Description |
 | //ref-title// |Contains only the title/name of the reference. |
