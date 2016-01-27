@@ -1,0 +1,18 @@
+created: 20160127203334762
+creator: HegartDmishiv
+modified: 20160127205736608
+modifier: HegartDmishiv
+tags: References
+title: References — Abstracts
+type: text/vnd.tiddlywiki
+
+Below is a list of abstracts or summaries for the [[references|References]] we've been asked to assemble as part of the [[Notes & Quotes & New Tiddlers]] exercise.
+
+<$list filter="[tag[References — Abstracts]sort[title]]">
+
+<$link>''<$view field="ref-parent"/>''</$link><br />
+<$transclude field="text"/>
+
+</$list>
+
+
