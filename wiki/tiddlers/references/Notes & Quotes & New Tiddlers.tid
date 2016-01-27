@@ -1,6 +1,6 @@
 created: 20160127022809302
 creator: HegartDmishiv
-modified: 20160127090918083
+modified: 20160127105854811
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
@@ -39,12 +39,9 @@ These fields can then be accessed using transclusion, such as ``{{Bush, V. (1945
 
 ---
 
-Bush (1945) describes the current, fixed, heirarchical forms of indexing as "cumbersome".
-
-A theoretical, mechanized device is outlined (Bush, 1945) which could resolve many of the problems inherent in the existing manual indexing systems used by libraries.
-
-''Bibliography''
-
-{{Bush, V. (1945) As We May Think.!!ref-biblio}}
+<div style="background-color:#E0E0E0; padding:1em;"><p>Bush (1945) describes the current, fixed, heirarchical forms of indexing as "cumbersome".</p>
+<p>A theoretical, mechanized device is outlined (Bush, 1945) which could resolve many of the problems inherent in the existing manual indexing systems used by libraries.</p>
+<p>''Bibliography''</p>
+<p>{{Bush, V. (1945) As We May Think.!!ref-biblio}}</p></div>
 
 ---
