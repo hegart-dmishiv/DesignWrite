@@ -1,6 +1,6 @@
 created: 20160127022809302
 creator: HegartDmishiv
-modified: 20160127203000490
+modified: 20160127210352505
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
@@ -57,3 +57,5 @@ To do this myself in a structured and methodological way, I will create child ti
 |[[ Bush, V. (1945) — Abstract]] |The parent tiddler and <<tag [[References — Abstracts]]>> |An abstract or summary of the reference. |
 
 Notice here that I'm using the first part of the parent tiddler's title, just the author(s)' name(s) and the year of publication. I do hope I don't encounter a profilic author who published more than one relevant article in the same year! In such an instance I may have to add something like //(1)// after the year in the tiddler title.
+
+These child tiddlers will all contain a //ref-parent// custom [[tiddler field|http://tiddlywiki.com/#TiddlerFields]], in order to display the name of the parent tiddler, instead of the shorted title, in a filtered list.
