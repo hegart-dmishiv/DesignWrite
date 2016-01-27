@@ -1,5 +1,8 @@
 created: 20160123183959460
-modified: 20160123184519319
+creator: HegartDmishiv
+modified: 20160127124753521
+modifier: HegartDmishiv
+revision: 0
 tags: $:/tags/Stylesheet
 title: $:/_Styles/Stylesheet
 
@@ -7,3 +10,6 @@ title: $:/_Styles/Stylesheet
 	background-color:#cef6d8;
 }
 
+.tc-tagged-bgFFE5E5 {
+	background-color:#ffe5e5;
+}
