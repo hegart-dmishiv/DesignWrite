@@ -1,13 +1,13 @@
 created: 20160123202138718
 creator: HegartDmishiv
 list: geah-vocab geah-word-classes geah-lines geah-rhyme geah-stanzas geah-poem [[My observations about the Green Eggs and Ham exercise]] [[Steven Balogh's Green Eggs and Ham]]
-modified: 20160128074934385
+modified: 20160128112804641
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
 title: Green Eggs and Ham
 type: text/vnd.tiddlywiki
-wip: I have completed the bulk of this exercise now. I've added a powerful toc-expandable list, which allows for easy exploring of this entire exercise.
+wip: I have completed this exercise now. I've added a powerful toc-expandable list, which allows for easy exploring of this entire exercise.
 wip-date: 160128-2013
 
 * ''Courseware'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Green%20Eggs%20and%20Ham]]
@@ -35,8 +35,13 @@ The individual stanza tiddlers contain links to the lines comprising the stanza,
 The completed poem, with lines ordered as Seuss wrote them, can be viewed on the [[geah-poem]] tiddler. This tiddler is constructed simply by transcluding each stanza in numerical order.
 
 !! Explorer
-You can explore my entire Green Eggs and Ham exercise below, through the interlinked tags.
+You can explore my entire Green Eggs and Ham exercise below, through the interlinked tags. Click on the arrow to the left of each tag listed below to expand and view their child tags.
 
+---
+
+<div style="background-color:#CEF6D8; padding:1em;">
 <div class="tc-table-of-contents">
 <<toc-expandable "Green Eggs and Ham">>
-</div>
+</div></div>
+
+---
