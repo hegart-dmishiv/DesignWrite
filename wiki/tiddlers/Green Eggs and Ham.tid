@@ -1,13 +1,13 @@
 created: 20160123202138718
 creator: HegartDmishiv
-modified: 20160127111838242
+modified: 20160128060331557
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
 title: Green Eggs and Ham
 type: text/vnd.tiddlywiki
-wip: I have three more [[stanzas|geah-stanzas]] ([[8|geah-stanza08]], [[9|geah-stanza09]], [[10|geah-stanza10]]) which I need to update, to tag all the lines within them with the stanza number, and to add the [[ListField|http://tiddlywiki.com/#ListField]] to them for arranging the sort order of the lines in the stanza. Apart from that, I think I have completed this exercise.
-wip-date: 160128-0009
+wip: I have completed the bulk of this exercise now. I just want to tidy up my documentation for it. I'm still tempted to add more links, but I really should move on.
+wip-date: 160128-1902
 
 * ''Courseware'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Green%20Eggs%20and%20Ham]]
 
