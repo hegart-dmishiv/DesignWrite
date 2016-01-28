@@ -1,33 +1,41 @@
 created: 20160123202138718
 creator: HegartDmishiv
-modified: 20160128060331557
+modified: 20160128071355274
 modifier: HegartDmishiv
 revision: 0
 tags: [[Introduction to TiddlyWikification]] wip
 title: Green Eggs and Ham
 type: text/vnd.tiddlywiki
-wip: I have completed the bulk of this exercise now. I just want to tidy up my documentation for it. I'm still tempted to add more links, but I really should move on.
-wip-date: 160128-1902
+wip: I have completed the bulk of this exercise now. I've added a powerful toc-expandable list, which allows for easy exploring of this entire exercise.
+wip-date: 160128-2013
 
 * ''Courseware'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Green%20Eggs%20and%20Ham]]
 
-I got an early start on this exercise. I'm still working on it, but I've achieved quite a bit so far. I have the 50 word [[vocabulary|geah-vocab]] in place, and I'm adding the unique [[lines|geah-lines]] (sentences) of the poem/story. 
+I took the wording and order of the lines of the poem from [[allthelyrics.com|http://www.allthelyrics.com/lyrics/dr_seuss/green_eggs_and_ham-lyrics-748536.html]], so I hope that source is accurate!
 
-I decided to concatenate together some of the lines, to form sentences of at least 15 characters long. For instance, the two lines...
+!! Words
+All 50 words of the poem are tagged with the <<tag geah-vocab>>tag. The words can be viewed together in alphabetical order on the [[geah-vocab]] tiddler.
 
-``I am Sam.
-Sam I am.``
+!! Grammar
+Each word is tagged with its word class (parts of speach) using one of the <<tag geah-word-classes>>tags.
 
-...have been joined to become a single line...
+!! Lines / Sentences
+All the lines (sentences) of the poem are tagged with the <<tag geah-lines>>tag. The lines can be viewed together in alphabetical order on the [[geah-lines]] tiddler. Each line is also tagged with the words that comprise it.
 
-``I am Sam. Sam I am.``
+!! Rhyming Words
+Each line is tagged with one of the <<tag geah-rhyme>>tags, depending on which word is at the end of the line.
 
-I tried mostly to join up lines which end with commas, into full sentences. It just made more sense to me that way.
+!! Stanzas
+I have grouped the lines together into stanzas, and each line is tagged with the <<tag geah-stanzas>>tag(s) they appear in. A single line may appear in more than one stanza. A numerical list of the stanza numbers can be viewed on the [[geah-stanzas]] tiddler.
 
-Also, I have begun grouping the lines (sentences) into [[stanzas|geah-stanzas]], so that I can regain control of the flow of the story/poem. It isn't meant to be read in alphabetical order, as the [[lines|geah-lines]] tiddler puts it.
+The individual stanza tiddlers contain links to the lines comprising the stanza, in the order they were written by Dr. Seuss. They also use the [[ListField|http://tiddlywiki.com/#ListField]] tiddler field to sort the lines similarly, as Seuss wrote them, so that they appear in filters in their proper order.
 
-I then view all of the stanzas together, in order, to complete the [[poem|geah-poem]]. As you see, it's still not quite complete yet. I took the wording of the poem from [[allthelyrics.com|http://www.allthelyrics.com/lyrics/dr_seuss/green_eggs_and_ham-lyrics-748536.html]], so I hope that source is accurate!
+!! Poem
+The completed poem, with lines ordered as Seuss wrote them, can be viewed on the [[geah-poem]] tiddler. This tiddler is constructed simply by transcluding each stanza in numerical order.
 
-''EDIT:'' I've just added the [[rhyming|geah-rhyme]] section to this exercise. They will now be filled out automatically as I add the rest of the lines to the poem.
+!! Explorer
+You can explore my entire Green Eggs and Ham exercise below, through the interlinked tags.
 
-''EDIT (27-Jan, 1:51am NZDT):'' I have just finished adding the [[word classes|geah-word-classes]] (grammar) to all the [[words|geah-vocab]] in the poem. The [[lines|geah-lines]] are all in now too. I just have to update a few of the [[stanzas|geah-stanzas]]. 
+<div class="tc-table-of-contents">
+<<toc-expandable "Green Eggs and Ham">>
+</div>
