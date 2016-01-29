@@ -1,10 +1,12 @@
 created: 20160129034630900
 creator: HegartDmishiv
-modified: 20160129034817712
+modified: 20160129062256014
 modifier: HegartDmishiv
 ref-parent: Rosenberg, J. (1996) The structure of hypertext activity.
+revision: 0
 tabcaption: Abstract
 tags: [[Rosenberg, J. (1996) The structure of hypertext activity.]] [[References — Abstracts]]
 title: Rosenberg, J. (1996) — Abstract
 type: text/vnd.tiddlywiki
 
+<p>A framework for discussion of hypertext activity is introduced using the concepts acteme, episode, and session. Acteme is a low-level unit such as link-following; episode is a collection of actemes that cohere in the reader’s mind, session is the entirety of contiguous activity. Well known issues in hypertext rhetoric are recast in this framework and generalized to all varieties of acteme. We consider whether the episode is a virtual document, user interface issues pertaining to the episode, multi-episode structure, concurrency issues, and reader-as-writer activity, with a frequent emphasis on hypertext gathering.</p>
