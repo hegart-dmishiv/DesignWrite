@@ -1,9 +1,9 @@
 created: 20160126235718055
 creator: HegartDmishiv
-modified: 20160127112658058
+modified: 20160129233242095
 modifier: HegartDmishiv
 revision: 0
-tags: Welcome wip
+tags: Welcome
 title: Work In Progress
 type: text/vnd.tiddlywiki
 wip: Creating my equivalent to Steve's [[NewAtDesignWrite|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#NewAtDesignWrite]] tiddler, but using form fields to do it. I've got the CSS outdent working properly now.
