@@ -1,13 +1,13 @@
 created: 20160123161941208
 creator: HegartDmishiv
-modified: 20160129030533225
+modified: 20160129110526406
 modifier: HegartDmishiv
 revision: 0
 tags: [[Green Eggs and Ham]] wip
 title: geah-stanzas
 type: text/vnd.tiddlywiki
-wip: Playing around with creating tables from filtered lists "on-the-fly", as Steve alluded to in [[this video|https://youtu.be/giM2nXhj_Dw?t=32m40s]].
-wip-date: 160129-1604
+wip: Playing around with creating tables from filtered lists "on-the-fly", as Steve alluded to in [[this video|https://youtu.be/giM2nXhj_Dw?t=32m40s]]. I've got this working properly now, thanks to [[a post on the official TiddlyWiki forums|https://goo.gl/Ie608V]].
+wip-date: 160130-0003
 
 Below are the names of the <abbr title="Wikipedia definition of stanza.">[[stanzas|https://en.wikipedia.org/wiki/Stanza]]</abbr> I have identified in Dr. Seuss' story [[Green Eggs and Ham]]. I try to group each stanza so that Sam's words come first, followed by those of the other, unnamed character. This makes sense to me, as Sam is asking a question, and the unnamed character is replying each time, as a challenge/response pair.
 
@@ -15,7 +15,11 @@ Below are the names of the <abbr title="Wikipedia definition of stanza.">[[stanz
 
 Below is a table showing the stanzas with their respective lines. This table has been generated "on-the-fly" using a filtered list, as Steve alluded to in [[this video|https://youtu.be/giM2nXhj_Dw?t=32m40s]].
 
+<table>
 <$list filter="[tag[geah-stanzas]sort[title]]">
-
-| <$view field="title"/> |<$transclude field="text"/> |
+<tr>
+<td><$view field="title"/></td>
+<td><$transclude field="text"/></td>
+</tr>
 </$list>
+</table>
