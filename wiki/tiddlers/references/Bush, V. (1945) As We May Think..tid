@@ -1,6 +1,6 @@
 created: 20160127043848283
 creator: HegartDmishiv
-modified: 20160129092156360
+modified: 20160129222419023
 modifier: HegartDmishiv
 ref-authors: Bush, V.
 ref-biblio: Bush, V. (1945). As We May Think. Atlantic Monthly 176(1), pp. 101-108.
@@ -23,4 +23,4 @@ type: text/vnd.tiddlywiki
 * ''Keywords:'' book, card, code, data, electrical, film, form, future, item, keys, machine, machines, material, memex, photography, picture, present, process, record, selection, thought, time, trail, trails
 * ''Citation:'' <div style="font-family:serif; font-size:0.75em; line-height:1em; display:block; text-indent: -1em; margin-left: 1em;">{{!!ref-biblio}}</div>
 
-<<reftabs "[[Bush, V. (1945) — Notes]] [[Bush, V. (1945) — Quotes]] [[Bush, V. (1945) — Abstract]]" "Notes" "$:/state/Bush,_V._(1945)_tabs">>
+<<reftabs "[[Bush, V. (1945) — Notes]] [[Bush, V. (1945) — Quotes]] [[Bush, V. (1945) — Abstract]]" "Bush, V. (1945) — Notes" "$:/state/Bush,_V._(1945)_tabs">>
