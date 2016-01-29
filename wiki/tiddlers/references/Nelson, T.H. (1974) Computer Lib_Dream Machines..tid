@@ -1,6 +1,6 @@
 created: 20160127042210793
 creator: HegartDmishiv
-modified: 20160128001149453
+modified: 20160129093621512
 modifier: HegartDmishiv
 ref-authors: Nelson, T.H.
 ref-biblio: Nelson, T.H. (1974). Computer Lib/Dream Machines (1st ed.). South Bend, IN: the distributors
@@ -11,4 +11,19 @@ tags: References [[What is hypertext? Intro Readings]]
 title: Nelson, T.H. (1974) Computer Lib/Dream Machines.
 type: text/vnd.tiddlywiki
 
-<<reftabs "[[Nelson, T.H. (1974) — Notes]] [[Nelson, T.H. (1974) — Quotes]] [[Nelson, T.H. (1974) — Abstract]]" "[[Notes|Nelson, T.H. (1974) — Notes]]" "$:/state/Bush,_V._(1945)_tabs">>
+<div style="font-size:0.75em; line-height:1em;"><$list filter="[tag[Nelson, T.H. (1974) Computer Lib/Dream Machines.]sort[title]]">
+• <$link>''<$view field="tabcaption"/>''</$link><br /></$list></div>
+
+* ''Courseware:'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Nelson%2C%20Computer%20Lib%2FDream%20Machines]]
+
+Computer Lib/Dream Machines is one of the core texts in hypertext theory. Read the Wikipedia article, the excerpts and the commentary. Try to gain an understanding of what Nelson means by "hypertext." If interested, pursue the entire book from one of the links below.
+
+* [[Wikipedia|https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines]]
+* [[Excerpts from Computer Lib/Dream Machines from New Media Reader|http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf]]
+* [[Commentary|http://www.digibarn.com/collections/books/computer-lib/]]
+* [[WorldCat|http://www.worldcat.org/title/computer-lib-dream-machines/oclc/16356410]]
+* Amazon [[1974 edition|http://www.amazon.com/Computer-Lib-Must-Understand-Computers/dp/0893470023/ref=sr_1_1?ie=UTF8&qid=1453139285&sr=8-1&keywords=computer+lib]], [[1987 edition|http://www.amazon.com/Computer-Dream-Machines-Revised-Edition/dp/0914845497/ref=pd_sim_sbs_14_1?ie=UTF8&refRID=1T2REWCPJ0KBAGRGGPNH]]
+* ''Available at:'' [[AUT City Campus, Main Collection (004 NEL)|https://libsearch.aut.ac.nz/iii/encore/record/C__Rb1047429]]
+* ''Citation:'' <div style="font-family:serif; font-size:0.75em; line-height:1em; display:block; text-indent: -1em; margin-left: 1em;">{{!!ref-biblio}}</div>
+
+<<reftabs "[[Nelson, T.H. (1974) — Notes]] [[Nelson, T.H. (1974) — Quotes]] [[Nelson, T.H. (1974) — Abstract]]" "[[Notes|Nelson, T.H. (1974) — Notes]]" "$:/state/Nelson,_T.H._(1974)_tabs">>
