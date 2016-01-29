@@ -1,6 +1,6 @@
 created: 20160127043848283
 creator: HegartDmishiv
-modified: 20160129063634397
+modified: 20160129082313635
 modifier: HegartDmishiv
 ref-authors: Bush, V.
 ref-biblio: Bush, V. (1945). As We May Think. Atlantic Monthly 176(1), pp. 101-108.
@@ -10,5 +10,15 @@ revision: 0
 tags: References [[What is hypertext? Intro Readings]]
 title: Bush, V. (1945) As We May Think.
 type: text/vnd.tiddlywiki
+
+<div style="font-size:0.75em; line-height:1em;"><$list filter="[tag[Bush, V. (1945) As We May Think.]sort[title]]">
+• <$link>''<$view field="tabcaption"/>''</$link><br /></$list></div>
+
+* ''Courseware:'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Bush%2C%20As%20We%20May%20Think]]
+
+"As We May Think" is often described as the first conceptualization of hypertext. The original article was published in 1945 – and thus obviously referred to an analog rather than a digital system. The article is worth reading today for its scope of vision and the concepts introduced that remain key to us today.
+
+* [[Original article in Atlantic Monthly|http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/3881/]]
+* [[Wikipedia|https://en.wikipedia.org/wiki/As_We_May_Think]]
 
 <<reftabs "[[Bush, V. (1945) — Notes]] [[Bush, V. (1945) — Quotes]] [[Bush, V. (1945) — Abstract]]" "Notes" "$:/state/Bush,_V._(1945)_tabs">>
