@@ -1,6 +1,6 @@
 created: 20160127075254851
 creator: HegartDmishiv
-modified: 20160127235835545
+modified: 20160129092011897
 modifier: HegartDmishiv
 ref-authors: 
 ref-biblio: Hypertext. (2016, January 9). In Wikipedia, the free encyclopedia. Retrieved January 27, 2016, from https://en.wikipedia.org/wiki/Hypertext
@@ -10,5 +10,16 @@ revision: 0
 tags: References [[What is hypertext? Intro Readings]]
 title: Hypertext. (2016, January 9).
 type: text/vnd.tiddlywiki
+
+<div style="font-size:0.75em; line-height:1em;"><$list filter="[tag[Hypertext. (2016, January 9).]sort[title]]">
+• <$link>''<$view field="tabcaption"/>''</$link><br /></$list></div>
+
+* ''Courseware:'' [[permalink|https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#Wikipedia%2C%20Hypertext]]
+
+A good overview of the concept and history of hypertext.
+
+* [[Wikipedia|https://en.wikipedia.org/wiki/Hypertext]]
+* ''Keywords:'' computer, content, developed, document, documents, editing, electronic, forms, help, hypercard, hypermedia, hypertext, hypertexts, information, internet, layer, links, meaning, media, Nelson, project, reader, released, software, system, systems, text, university, used, user, wide, world, written
+* ''Citation:'' <div style="font-family:serif; font-size:0.75em; line-height:1em; display:block; text-indent: -1em; margin-left: 1em;">{{!!ref-biblio}}</div>
 
 <<reftabs "[[Hypertext. (2016) — Notes]] [[Hypertext. (2016) — Quotes]] [[Hypertext. (2016) — Abstract]]" "[[Notes|Hypertext. (2016) — Notes]]" "$:/state/Hypertext._(2016)_tabs">>
