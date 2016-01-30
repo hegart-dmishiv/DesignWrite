@@ -1,7 +1,9 @@
+color: #66CCFF
 created: 20160130103342357
 creator: HegartDmishiv
-modified: 20160130113710973
+modified: 20160130121131714
 modifier: HegartDmishiv
+revision: 0
 tags: [[Notes & Quotes & New Tiddlers]] wip
 title: Keywords
 type: text/vnd.tiddlywiki
@@ -19,3 +21,5 @@ Once I have the basic list of most frequent words, I filter them further manuall
 
 !! Keyword Linking
 I then turn each keyword into a clickable link. Each keyword will get its own tag tiddler, as we did for the [[words|geah-vocab]] in the [[Green Eggs and Ham]] exercise, and the references will get tagged with the keywords, so that research works sharing keywords can be readily identified in a filtered list on the keyword's tag tiddler.
+
+Constructing the keyword tag tiddlers is more streamlined than it was for the Green Eggs and Ham exercise, through the implementation of a custom macro, [[keyword-quick|$:/_Macros/keyword-quick]], which invokes Steve's [[taggly|$:/_Macros/taggly]] macro as well. Simply adding ``<<keyword-quick>>`` to the text field of a new keyword tag tiddler will add the content needed, and the //taggly// filtered list. 
