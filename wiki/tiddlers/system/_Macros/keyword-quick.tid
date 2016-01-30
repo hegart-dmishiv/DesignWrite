@@ -1,0 +1,16 @@
+created: 20160130115724938
+creator: HegartDmishiv
+modified: 20160130120349463
+modifier: HegartDmishiv
+origin: [[Hegart's Custom Macros]]
+purpose: To quickly add the body content of the keyword tag tiddlers for the [[Notes & Quotes & New Tiddlers]] exercise.
+tags: $:/tags/Macro [[Hegart's Custom Macros]]
+title: $:/_Macros/keyword-quick
+type: text/vnd.tiddlywiki
+usage: ``<<keyword-quick>>``
+
+\define keyword-quick()
+Below are the [[references|References]] which contain the [[keyword|Keywords]] "{{!!title}}".
+
+<<taggly>>
+\end
