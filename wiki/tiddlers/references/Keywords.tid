@@ -1,0 +1,21 @@
+created: 20160130103342357
+creator: HegartDmishiv
+modified: 20160130113710973
+modifier: HegartDmishiv
+tags: [[Notes & Quotes & New Tiddlers]] wip
+title: Keywords
+type: text/vnd.tiddlywiki
+wip: For my [[Notes & Quotes & New Tiddlers]] exercise, the first step towards "capturing those associations or themes in tags" is to identify the keywords in each [[reference|References]].
+wip-date: 160131-0028
+
+!! Keyword Aggregation
+Authors of academic articles, and/or the research database/repository that references their work, often identify keywords from the text of the article to assist the reader in assessing the relevance of the work to their own research. If such keywords already have been identified by the author(s) or the research database/repository, then those will be used here. If there are no pre-identified keywords for a [[reference|References]], then I will distill the keywords myself from the text, if the full text is available to me in a selectable (copyable) format.
+
+To sublimate the keywords from the text, I look for relevant words that appear frequently in the text. Common words, and those consisting of less than three letters are rejected. This would be an onerous task to perform manually for each reference. Fortunately there are computerised tools to perform this function automatically, with "near enough" results.
+
+One tool I'll be using for keyword aggregation is [[Textalyzer|http://textalyser.net]] which not only performs analysis of frequently used words in a text, but also identifies frequent phrases.
+
+Once I have the basic list of most frequent words, I filter them further manually in a spreadsheet, removing the common and irrelevant words (such as "therefore", "different", etc) and try to condense the list to just words that are particularly relevant to the work. The remainder are then sorted alphabetically before being added to the reference tiddler.
+
+!! Keyword Linking
+I then turn each keyword into a clickable link. Each keyword will get its own tag tiddler, as we did for the [[words|geah-vocab]] in the [[Green Eggs and Ham]] exercise, and the references will get tagged with the keywords, so that research works sharing keywords can be readily identified in a filtered list on the keyword's tag tiddler.
