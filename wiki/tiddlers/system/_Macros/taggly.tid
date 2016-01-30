@@ -1,0 +1,12 @@
+created: 20160130115315210
+creator: HegartDmishiv
+modified: 20160130115327501
+modifier: HegartDmishiv
+origin: https://dl.dropboxusercontent.com/s/tk91wqty552z6z1/designwrite.html#taggly
+tags: $:/tags/Macro
+title: $:/_Macros/taggly
+type: text/vnd.tiddlywiki
+
+\define taggly()
+<<list-links filter:"[tag{!!title}]">>
+\end
